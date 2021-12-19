@@ -1,3 +1,4 @@
+#input given data here
 data='''\
 forward 5
 down 5
